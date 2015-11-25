@@ -1,0 +1,23 @@
+{
+  "name": "labtech-snoop",
+  "version": "1.0.0",
+  "description": "grabs ticket updates and pushes to rethinkdb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meteormanaged/labtech-snoop.git"
+  },
+  "keywords": [
+    "labtech",
+    "rethinkdb"
+  ],
+  "author": "Mike Kozak <mkozak@meteormanaged.com> (http://www.meteormanaged.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meteormanaged/labtech-snoop/issues"
+  },
+  "homepage": "https://github.com/meteormanaged/labtech-snoop#readme"
+}
