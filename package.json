@@ -17,9 +17,9 @@
   "author": "Mike Kozak <mkozak@meteormanaged.com> (http://www.meteormanaged.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meteormanaged/labtech-snoop/issues"
+    "url": "https://github.com/meteormanaged/labtechsnoop/issues"
   },
-  "homepage": "https://github.com/meteormanaged/labtech-snoop#readme",
+  "homepage": "https://github.com/meteormanaged/labtechsnoop#readme",
   "dependencies": {
     "mysql": "^2.9.0"
   },
